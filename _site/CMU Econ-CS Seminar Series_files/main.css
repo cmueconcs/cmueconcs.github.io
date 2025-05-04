@@ -1,0 +1,243 @@
+/* base styling for site including base font-family etc */
+
+*{
+	border: 1px;
+	margin: 1px;
+	padding: 0px;
+
+}
+
+body{
+font-family:Tahoma, Verdana, Arial, Trebuchet MS;
+}
+
+
+
+/*------------------------------------------------
+</Basic Formatting>*/
+
+/*################################################*/
+
+/*<Positional>
+--------------------------------------------------*/
+/*margin-left:auto;
+margin-right:auto;
+text-align:center;
+position:relative;
+(positional css for centering a div.. always useful :)
+*/
+
+
+
+#wrapper
+{
+position:relative;
+text-align:center;
+margin-left:auto;
+margin-right:auto;
+}
+
+#banner
+{
+background:#FFFFFF;
+text-align:left;
+padding:5px;
+border-bottom:#3B5998 solid 3px;
+}
+
+#nav
+{
+padding:5px;
+text-align:right;
+background:#FFFFFF;
+border-bottom:#3B5998 solid 3px;
+}
+
+#nav ul
+{
+margin-right:20px;
+list-style:none;
+display:inline;
+}
+
+#nav li
+{
+list-style:none;
+display:inline;
+margin:0 15px 10px 0;
+}
+
+#nav a
+{
+color:#3B5998;
+font-size:1em;
+text-decoration:none;
+border-bottom:1px solid #3B5998;
+}
+
+#nav a:hover
+{
+text-decoration:none;
+border-bottom:2px solid #3B5998;
+}
+
+#content
+{
+text-align:left;
+border-bottom:#3b5998 solid 3px;
+padding:0px 30px 20px 30px;
+background:white;
+}
+
+#content ul
+{
+padding-left:75px;
+}
+#content li
+{
+padding-bottom:0.5em;
+}
+
+#content li li
+{
+padding-bottom:.2em;
+}
+
+#content h1
+{
+border-bottom:1px solid gray;
+padding:1em 0 0 0;
+color:#3b5998;
+}
+
+#content h2
+{
+color:#3b5998;
+}
+
+#content p
+{
+padding:1em 0 0.5em 2em;
+line-height: 1.4em;
+}
+#content img
+{
+padding:1em 0 0.5em 2em;
+}
+#content a
+{
+color:#3b5998;
+font-size:1em;
+text-decoration:none;
+border-bottom:0px solid #3b5998;
+}
+
+#content a:hover
+{
+text-decoration:none;
+border-bottom:1px solid #6666CC;
+}
+
+
+/*------------------------------------------------
+</Positional>*/
+
+/*################################################*/
+
+
+.bannertext
+{
+text-align:left;
+color:#3b5998;
+font-size:34pt;
+padding:0 0 0 0;
+}
+
+.upcomingtalk
+{
+background-color: #fafacc;
+}
+
+.activelink
+{
+color:white;
+}
+
+.close:before {
+    color:#3b5998;
+    content: 'âœ•';
+}
+.close {
+    position: absolute;
+    top: .5;
+    right: .5;
+    cursor: pointer;
+}
+
+
+
+
+/* =================================================================
+   We collapse borders because we don't want cell spacing.
+   We specify the font family here too, including a generic fall-back.
+   We specify a global table font size, using 'ems' because they are
+   resizable and take their relative value from the global stylesheet. */
+table {
+    border-collapse: collapse;
+    background: #fff no-repeat center;
+    color: #000;
+    font-size: 0.9em;
+}
+
+/* We add letter spacing because all caps makes the letters scrunchy
+   Also, left aligned because it was favoured by my university for table
+   captions, but yours might be different. Actually for a scientific paper,
+   the caption would be more detailed, resembling a table 'summary' */
+caption {
+    padding-bottom: 5px;
+    font-variant: small-caps;
+    letter-spacing: 0.1em;
+    text-align: left;
+}
+
+/* Table headers should be clear, but concise and discreet.
+   The double border separates the row from caption and the table body
+   without needing a different background colour. Because we've specified
+   a text colour, we also specify a background colour (even though it's the
+   same as the main table colour) to accommodate personal stylesheets. */
+thead th {
+    border-top: 3px double #ccc;
+    border-bottom: 3px double #ccc;
+    padding: 2px 10px;
+    background-color: #fff;
+    color: #3b5998;
+    text-align: left;
+    font-variant: small-caps;
+    letter-spacing: 0.1em;
+    white-space: nowrap;
+}
+
+/* We've given the table footer the same double border treatment for the
+   same reason.  It also acts as a nice "end of table" indicator. It's
+   part of the data so we leave the text black. We also treat the header
+   and data the same way. */
+tfoot th, tfoot td {
+    border-top: 3px double #ccc;
+    border-bottom: 3px double #ccc;
+    padding: 2px 10px;
+    font-variant: small-caps;
+    letter-spacing: 0.1em;
+}
+
+/* We now revert to discreet single pixel horizontal borders to separate
+   each entry.  If your table content is numerical data, you might want the
+   vertical borders too, but I find it's visually more pleasing and easier to
+   read online when there is plenty of padding instead of borders.
+   NOTE: we treat the headers and data cells the same here, visually it's clear
+   enough (header text is bold) and does not affect screen-reader software */
+tbody th, tbody td {
+    border-bottom: 1px solid #ccc;
+    padding: 2px 10px;
+    text-align: left;
+    vertical-align: top;
+}

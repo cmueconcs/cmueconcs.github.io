@@ -1,0 +1,7 @@
+title: CMU Econ-CS Seminar Series
+description: Weekly Econ-CS Seminar Series @ CMU 
+url: https://cs.cmu.edu/~econcs
+baseurl: ""
+
+# Build settings
+markdown: kramdown

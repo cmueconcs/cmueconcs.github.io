@@ -1,0 +1,116 @@
+- date: Dec 5, 2024
+  time: 12:00PM
+  location:
+    room: NSH 3001
+    link: https://cmu.zoom.us
+  speaker: Jiasun Li
+  affiliation: Carnegie Mellon University
+  title: Profit Division Among Privately-Informed Agents and Beyond
+
+- date: Jan 21, 2025
+  time: 12:30PM
+  location:
+    room: NSH 3001
+    link: https://cmu.zoom.us
+  speaker: Brian H. Zhang
+  affiliation: Carnegie Mellon University
+  title: "Computational Game Theory in the Modern Age: New Techniques and Connections"
+
+- date: Jan 28, 2025
+  time: 12:30PM
+  location:
+    room: NSH 3001
+    link: https://cmu.zoom.us
+  speaker: Rattana Pukdee
+  affiliation: Carnegie Mellon University
+  title: Nash Equilibria and Pitfalls of Adversarial Training in Adversarial Robustness Games
+
+- date: Feb 4, 2025
+  time: 12:30PM
+  location:
+    room: NSH 3001
+    link: https://cmu.zoom.us
+  speaker: Naveen Raman
+  affiliation: Carnegie Mellon University
+  title: Ex-Global Rewards in Restless Multi-Armed Bandits
+
+- date: Feb 12, 2025
+  time: 1:00PM
+  location:
+    room: GHC 7101
+    link: https://cmu.zoom.us
+  speaker: Jiahao Zhang
+  affiliation: Carnegie Mellon University
+  title: Ex-post Individually Rational Bayesian Persuasion
+
+- date: Feb 18, 2025
+  time: 12:30PM
+  location:
+    room: NSH 3001
+    link: https://cmu.zoom.us
+  speaker: Emanuel Tewolde
+  affiliation: Carnegie Mellon University
+  title: "Imperfect-Recall Games: Equilibrium Concepts and Their Complexity"
+
+- date: Feb 18, 2025
+  time: 1:00PM
+  location:
+    room: NSH 3001
+    link: https://cmu.zoom.us
+  speaker: Emin Berker
+  affiliation: Carnegie Mellon University
+  title: The Value of Recall in Extensive-Form Games
+
+- date: Mar 11, 2025
+  time: 1:00PM
+  location:
+    room: GHC 6501
+    link: https://cmu.zoom.us
+  speaker: Caspar Oesterheld
+  affiliation: Carnegie Mellon University
+  title: New foundational ideas for cooperative AI
+
+- date: Mar 18, 2025
+  time: 12:30PM
+  location:
+    room: NSH 3001
+    link: https://cmu.zoom.us
+  speaker: Carlos Martin
+  affiliation: Carnegie Mellon University
+  title: Finding mixed-strategy Nash equilibria of black-box continuous-action games using randomized policy networks and joint-perturbation simultaneous pseudo-gradients
+
+- date: Mar 25, 2025
+  time: 12:30PM
+  location:
+    room: NSH 3001
+    link: https://cmu.zoom.us
+  speaker: Jingwu Tang & Jiahao Zhang
+  affiliation: Carnegie Mellon University
+  title: Dimension-Free Decision Calibration for Nonlinear Losses
+
+- date: Apr 1, 2025
+  time: 12:30PM
+  location:
+    room: NSH 3001
+    link: https://cmu.zoom.us
+  speaker: Emin Berker
+  affiliation: Carnegie Mellon University
+  title: "From Independence of Clones to Composition Consistency: A Hierarchy of Barriers to Strategic Nomination"
+
+- date: Apr 15, 2025
+  time: 12:30PM
+  location:
+    room: NSH 3001
+    link: https://cmu.zoom.us
+  speaker: Harrison Grodin
+  affiliation: Carnegie Mellon University
+  title: Compositional Game Theory
+
+- date: Apr 22, 2025
+  time: 12:30PM
+  location:
+    room: NSH 3001
+    link: https://cmu.zoom.us
+  speaker: Kiriaki (Korinna) Fragkia
+  affiliation: Carnegie Mellon University
+  title: Learning in Structured Stackelberg Games
