@@ -4,7 +4,7 @@
     room: NSH 3001
     link: https://cmu.zoom.us
   speaker: Jiasun Li
-  affiliation: Carnegie Mellon University
+  affiliation: George Mason
   title: Profit Division Among Privately-Informed Agents and Beyond
 
 - date: Jan 21, 2025
@@ -60,6 +60,15 @@
   speaker: Emin Berker
   affiliation: Carnegie Mellon University
   title: The Value of Recall in Extensive-Form Games
+
+- date: Feb 24, 2025
+  time: 1:15PM
+  location:
+    room: GHC 7501
+    link: https://cmu.zoom.us
+  speaker: Eugene Vorobeychik
+  affiliation: WashU
+  title: Achieving AI Safety in a Contested World
 
 - date: Mar 11, 2025
   time: 1:00PM
