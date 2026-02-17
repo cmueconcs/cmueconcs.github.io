@@ -1,0 +1,16 @@
+- date: January 22, 2026
+  time: 1:00PM
+  location:
+    room: GHC 4405
+    link: https://cmu.zoom.us
+  speaker: Fabian Pieroth
+  affiliation: Technical University of Munich
+  title: Equilibrium Learning – Towards Understanding Algorithmic Markets
+- date: February 11, 2026
+  time: 2:00PM
+  location:
+    room: GHC 8102
+    link: https://cmu.zoom.us
+  speaker: Ratip Emin Berker and Emanuel Tewolde
+  affiliation: Carnegie Mellon University
+  title: "On the Edge of Core (Non-)Emptiness: An Automated Reasoning Approach to Approval-Based Multi-Winner Voting"
