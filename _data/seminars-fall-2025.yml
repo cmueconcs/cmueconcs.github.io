@@ -1,89 +1,98 @@
 - date: August 8, 2025
-  time: 11:00AM
+  time: 11:00 AM
   location:
     room: GHC 6501
     link: https://cmu.zoom.us
   speaker: Dominik Peters
   affiliation: LAMSADE.
-  title: "Computing Lindahl Equilibrium for Public Goods with and without Funding Caps"
+  title: Computing Lindahl Equilibrium for Public Goods with and without Funding Caps
+
 - date: September 25, 2025
-  time: 4:00PM
+  time: 4:00 PM
   location:
     room: GHC 8102
     link: https://cmu.zoom.us
   speaker: Andy Haput
   affiliation: Stanford
-  title: "Preference Measurement Error, Concentration in Recommendation Systems, and Persuasion"
+  title: Preference Measurement Error, Concentration in Recommendation Systems, and Persuasion
+
 - date: October 28, 2025
-  time: 4:00PM
+  time: 4:00 PM
   location:
     room: GHC 8102
     link: https://cmu.zoom.us
   speaker: Carlos Martin
   affiliation: Carnegie Mellon University
-  title: "ApproxED: Approximate exploitability descent via learned best responses"
+  title: 'ApproxED: Approximate exploitability descent via learned best responses'
+
 - date: November 4, 2025
-  time: 4:00PM
+  time: 4:00 PM
   location:
     room: NSH 3305
     link: https://cmu.zoom.us
   speaker: Brian H. Zhang
   affiliation: MIT
-  title: "Scale-Invariant Regret Matching and Online Learning with Optimal Convergence: Bridging Theory and Practice in Zero-Sum Games"
+  title: 'Scale-Invariant Regret Matching and Online Learning with Optimal Convergence: Bridging Theory and Practice in Zero-Sum Games'
+
 - date: November 11, 2025
-  time: 4:00PM
+  time: 4:00 PM
   location:
     room: NSH 3305
     link: https://cmu.zoom.us
   speaker: Alec Sun
   affiliation: University of Chicago
-  title: "Conservative classifiers do consistently well with improving agents: characterizing statistical and online learning"
+  title: 'Conservative classifiers do consistently well with improving agents: characterizing statistical and online learning'
+
 - date: November 19, 2025
-  time: 4:00PM
+  time: 4:00 PM
   location:
     room: NSH 3305
     link: https://cmu.zoom.us
   speaker: Matt Casey
   affiliation: Northwestern
-  title: "Justified Representation: From Hare to Droop"
+  title: 'Justified Representation: From Hare to Droop'
+
 - date: November 25, 2025
-  time: 1:00PM
+  time: 1:00 PM
   location:
     room: GHC 9115
     link: https://cmu.zoom.us
   speaker: Sílvia Casacuberta Puig
   affiliation: Stanford
-  title: "Justified Representation: How Global Calibration Strengthens Multiaccuracy"
+  title: 'Justified Representation: How Global Calibration Strengthens Multiaccuracy'
+
 - date: November 25, 2025
-  time: 4:00PM
+  time: 4:00 PM
   location:
     room: NSH 3305
     link: https://cmu.zoom.us
   speaker: Caspar Oesterheld
   affiliation: Carnegie Mellon University
   title: Safe (Pareto) improvements — a new approach in game theory
+
 - date: December 2, 2025
-  time: 4:00PM
+  time: 4:00 PM
   location:
     room: NSH 3305
     link: https://cmu.zoom.us
   speaker: Naveen Raman
   affiliation: Carnegie Mellon University
   title: Assortment Optimization for Patient-Provider Matching
+
 - date: December 4, 2025
-  time: 4:00PM
+  time: 4:00 PM
   location:
     room: GHC 8102
     link: https://cmu.zoom.us
   speaker: Eden Hartman
   affiliation: Bar-Ilan University
   title: Reducing Leximin Fairness to Utilitarian Optimization
+
 - date: December 5, 2025
-  time: 11:00AM
+  time: 11:00 AM
   location:
     room: GHC 9115
     link: https://cmu.zoom.us
   speaker: Prasanna Ramakrishnan
   affiliation: Stanford
   title: How to Appease a Voter Majority
-

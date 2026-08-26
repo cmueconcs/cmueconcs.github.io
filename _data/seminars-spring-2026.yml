@@ -1,16 +1,71 @@
 - date: January 22, 2026
-  time: 1:00PM
+  time: 1:00 PM
   location:
     room: GHC 4405
     link: https://cmu.zoom.us
   speaker: Fabian Pieroth
   affiliation: Technical University of Munich
   title: Equilibrium Learning – Towards Understanding Algorithmic Markets
+
 - date: February 11, 2026
-  time: 2:00PM
+  time: 2:00 PM
   location:
     room: GHC 8102
     link: https://cmu.zoom.us
   speaker: Ratip Emin Berker and Emanuel Tewolde
   affiliation: Carnegie Mellon University
-  title: "On the Edge of Core (Non-)Emptiness: An Automated Reasoning Approach to Approval-Based Multi-Winner Voting"
+  title: 'On the Edge of Core (Non-)Emptiness: An Automated Reasoning Approach to Approval-Based Multi-Winner Voting'
+
+- date: February 25, 2026
+  time: 2:00 PM
+  location:
+    room: GHC 8102
+    link: https://cmu.zoom.us
+  speaker: Yanru Guan
+  affiliation: Peking University
+  title: Ex-Ante Truthful Distribution-Reporting Mechanisms
+
+- date: March 18, 2026
+  time: 2:00 PM
+  location:
+    room: GHC 8102
+    link: https://cmu.zoom.us
+  speaker: Emily Diana
+  affiliation: Carnegie Mellon University
+  title: Minimax Group Fairness in Strategic Classification
+
+- date: March 25, 2026
+  time: 2:00 PM
+  location:
+    room: GHC 8102
+    link: https://cmu.zoom.us
+  speaker: Madeline Kitch
+  affiliation: Carnegie Mellon University
+  title: 'Learning What Evaluators'' Value: A Reliable Approach to Modeling Evaluator Preferences'
+
+- date: April 8, 2026
+  time: 2:00 PM
+  location:
+    room: GHC 8102
+    link: https://cmu.zoom.us
+  speaker: Mario Günther
+  affiliation: Panthéon Sorbonne
+  title: Equal Say as Sum Normalization
+
+- date: April 15, 2026
+  time: 2:00 PM
+  location:
+    room: GHC 8102
+    link: https://cmu.zoom.us
+  speaker: Itai Zilberstein
+  affiliation: Carnegie Mellon University
+  title: Near-Optimal Dynamic Matching via Coarsening with Application to Heart Transplantation
+
+- date: June 24, 2026
+  time: 2:30 PM
+  location:
+    room: GHC 9115
+    link: https://cmu.zoom.us
+  speaker: Tao Lin
+  affiliation: Microsoft Research
+  title: Information Design with Large Language Models
