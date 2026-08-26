@@ -23,18 +23,19 @@ for arg in "$@"; do
 done
 
 python3 "$REPO_ROOT/scripts/sync_seminars.py"
+jekyll build
 
 if [ "$COMMIT" -eq 0 ]; then
   echo "Dry run: skipping git commit/push."
   exit 0
 fi
 
-if git diff --quiet -- _data csv_exports && git diff --cached --quiet -- _data csv_exports; then
+if git diff --quiet -- _data csv_exports _site && git diff --cached --quiet -- _data csv_exports _site; then
   echo "No changes to commit."
   exit 0
 fi
 
-git add _data/seminars-*.yml csv_exports/*.csv
+git add _data/seminars-*.yml csv_exports/*.csv _site
 git commit -m "Auto-update seminar schedule from Google Sheet"
 
 if [ "$PUSH" -eq 1 ]; then
